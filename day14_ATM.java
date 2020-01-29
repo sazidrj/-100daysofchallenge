@@ -1,6 +1,6 @@
 import java.io.*;
 import java.util.*;
-public class day15_ATM {
+public class day14_ATM {
     public static void main(String arg[]) {
         try {
             Scanner sc = new Scanner(System.in);
